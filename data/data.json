@@ -1,0 +1,84 @@
+[
+    {
+        "email": "zuberiammat@gmail.com",
+        "data": [
+            {
+                "name": "AMMAT",
+                "email": "zuberiammat@gmail.com",
+                "supervisor": "Shah Saud Abdali",
+                "date": "2023-01-24",
+                "need": "RAM",  
+                "department": "Sale & Finance",
+                "remarks": " sdf",
+                "issueToken": "4ee26cec9116",
+                "status": "Accepted"
+            }
+        ]
+    },
+    {
+        "email": "haseeb@enggenv.com",
+        "data": [
+            {
+                "name": "Haseeb",
+                "email": "haseeb@enggenv.com",
+                "supervisor": "Shah Saud Abdali",
+                "date": "2023-01-25",
+                "need": "RAM",
+                "department": "IT",
+                "remarks": "asd",
+                "issueToken": "7fb96832689d",
+                "status": "Request Initiated!"
+            }
+        ]
+    },
+    {
+        "email": "azakmi@gmail.com",
+        "data": [
+            {
+                "name": "azakmi",
+                "email": "azakmi@gmail.com",
+                "supervisor": "Mohammad Hamza",
+                "date": "2022-12-27",
+                "productType": "",
+                "need": "ram",
+                "department": "PIEZO",
+                "remarks": "boom",
+                "issueToken": "64663e6386cb",
+                "status": "Accepted"
+            },
+            {
+                "name": "ammat",
+                "email": "azakmi@gmail.com",
+                "supervisor": "Shah Saud Abdali",
+                "date": "2023-01-23",
+                "need": "ram",
+                "department": "R&D (IT)",
+                "remarks": "boom",
+                "issueToken": "135ed3a31d76",
+                "status": "Alloted"
+            },
+            {
+                "name": "azakmi",
+                "email": "azakmi@gmail.com",
+                "supervisor": "Shah Saud Abdali",
+                "date": "2023-01-23",
+                "need": "Mouse WIreless",
+                "department": "R&D (IT)",
+                "remarks": "asap!",
+                "issueToken": "b21fbd07b7ad",
+                "status": "Denied"
+            },
+            {
+                "name": "azakmi",
+                "email": "azakmi@gmail.com",
+                "supervisor": "Shah Saud Abdali",
+                "date": "2023-01-28",
+                "need": "RAM",
+                "department": "IT",
+                "remarks": "urgent !!!!!",
+                "issueToken": "f126d0599e41",
+                "status": "Request Initiated!"
+            }
+        ]
+    }
+]
